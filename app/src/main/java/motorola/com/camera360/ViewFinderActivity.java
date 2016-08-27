@@ -220,6 +220,7 @@ public class ViewFinderActivity extends AppCompatActivity {
         Log.e(TAG, "onPause");
         //closeCamera();
         stopBackgroundThread();
+        mBackCameraDevice.close();
         super.onPause();
     }
 
