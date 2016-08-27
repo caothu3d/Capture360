@@ -1,2 +1,4 @@
 Android Studio project requiring API 24 and Android N.
 
+This app is intended to demonstrate the possibility of using 2 clip-on fisheye lenses taped over the front and back camera of your phone and then stitch them together into one rectilinear image that can be viewed in a 360 viewer (such as the cardboard SDK viewer).
+
